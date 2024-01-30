@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+}
+.subcontainer{
+    width:23% ;
+    height:300px;
+    border: 2px solid;
+    background-color: orange;
+    color: white;
+    margin-left: 16%;
+    margin-top: 10%;
+}
+
+.subcontainer1{
+    width: 23%;
+    height: 300px;
+    border: 2px solid;
+    background-color: blue;
+    color: white;
+    margin-left: 39%;
+    margin-top:-23.9%;
+    
+}
+
+.subcontainer2{
+    width: 23%;
+    height: 300px;
+    border: 2px solid;
+    background-color: green;
+    color: white;
+    margin-left:62.2%;
+    margin-top:-23.9%;
+}
+
+button{
+    margin-left: 33%;
+    border-radius: 25px;
+    border: 1px;
+    padding: 10px;
+    margin-top: 10%;
+}
+.fin1{
+    color: orange;
+}
+
+.fin2{
+    color: blue;
+}
+
+.fin3{
+    color: green;
+}
+
+.jay{
+    font-size: 40px;
+    padding: 20px;
+}
+
+.main{
+    text-align: center;
+    font-size: 18px;
+}
